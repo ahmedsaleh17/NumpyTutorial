@@ -14,7 +14,7 @@
 ### *why we use numpy over lists?*
 - the main difference comes from the speed so the lists are very slow meanwhile numpy is very fast 
 
-- In lists i can not do element-wise maths operations as i do in numpy 
+- In lists I can not do element-wise maths operations as i do in numpy 
 ```python
     lists : 
     a = [1 , 3 , 5]
